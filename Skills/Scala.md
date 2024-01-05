@@ -1,0 +1,68 @@
+## Scala and Backend
+
+- Fundamentals and Concepts
+  - Functional Programming Paradigms: 🎓 known
+  - Object-Oriented Programming in Scala: 🎓 known
+  - Immutability and Side Effects: 🎓 known
+  - Type Inference and Advanced Type Systems: 🎓 known
+  - Concurrency Models (Akka, Futures): 🎓 known
+  - Pattern Matching and Case Classes: 🎓 known
+  - Collections API and Lazy Evaluation: 🎓 known
+  - Scala's JVM Interoperability: 🎓 known
+  - SBT (Scala Build Tool) Usage: 🎓 known
+  - JVM Memory Management and Garbage Collection: 🎓 known
+  - Performance Considerations in Scala: 🎓 known
+  - Real-time Applications with Scala: 🎓 known
+  - Data validation: 🔬 researched
+- Modularity, Layers, and Dependencies
+  - SBT and Build Definitions: 🎓 known
+  - Package Management with Maven, Ivy and Coursier: 🎓 known
+  - Implicit Conversions and Parameters: 🎓 known
+  - Traits and Mixin Composition: 🎓 known
+  - Modular Programming in Scala: 🎓 known
+  - Dependency Injection Patterns: 🎓 known
+  - Library and Framework Ecosystem: 🎓 known
+  - Effective Use of Companion Objects: 🎓 known
+  - Version Management and Binary Compatibility: 🎓 known
+- Environment and Tooling
+  - REPL (Read-Eval-Print Loop) Usage: 🎓 known
+  - Scala IDEs and Editors: 🎓 known
+  - Scalafmt for Code Formatting: 🎓 known
+  - Scaladoc for Documentation: 🎓 known
+  - ScalaTest and Spec2 for Testing: 🎓 known
+  - Continuous Integration/Deployment Strategies: 🎓 known
+  - Scalafix for Code Refactoring: 🎓 known
+  - Monitoring and Profiling Scala Applications: 🎓 known
+- Scala APIs and Libraries
+  - Akka for Actor-based Concurrency: 🎓 known
+  - ZIO, Cats Effect for async programming: 🎓 known
+  - DIstage for DI: 🎓 known
+  - Play Framework for Web Applications: 🎓 known
+  - Cats for Functional Programming: 🎓 known
+  - Slick, Quill, Doobie for Database Access: 🎓 known
+  - HTTP4s and Akka HTTP for Networking: 🎓 known
+  - Scala.js for Scala to JavaScript Compilation: 👂 heard
+  - Circe and Play JSON for JSON Handling: 🎓 known
+  - Typelevel Libraries (Cats Effect, Monix): 🎓 known
+- Application Architecture
+  - Clean Architecture and DDD in Scala: 🎓 known
+  - Microservices with Scala and Akka: 🎓 known
+  - Event Sourcing and CQRS Patterns: 🎓 known
+  - Functional and Reactive Programming Patterns: 🎓 known
+  - Scalability and High Availability Strategies: 🎓 known
+  - Resilience and Fault Tolerance (Circuit Breakers, Backoff Strategies): 🎓 known
+  - API Design and Versioning: 🎓 known
+  - Message Queues and Event Streaming (Kafka, RabbitMQ): 🎓 known
+- Network and Security
+  - RESTful API Development: 🎓 known
+  - WebSockets and Real-Time Communication: 🎓 known
+  - gRPC and Protocol Buffers: 🎓 known
+  - Secure Coding Practices in Scala: 🎓 known
+  - OAuth and JWT for Authentication: 🎓 known
+  - TLS/SSL Implementation: 🎓 known
+  - Handling Cross-Site Scripting (XSS) and SQL Injection: 🎓 known
+- Data Access and Management
+  - Scala and NoSQL Databases (Cassandra, Couchbasee, MongoDB): 🎓 known
+  - RDBMS Access (Postgres, MySQL): 🎓 known
+  - ORM Tools (Slick, Quill): 🎓 known
+  - Stream Processing (Akka Streams, ZIO Streams): 🎓 known
