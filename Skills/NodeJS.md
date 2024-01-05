@@ -61,28 +61,28 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer: 👂 heard
-  - Multilayer approach: 👂 heard
-  - Separation of concerns
-  - Inversion of control: 👂 heard
-  - Dependency injection: 👂 heard
-  - GRASP
-  - SOLID: 👂 heard
-  - GoF patterns: 👂 heard
-  - Distributed systems: 👂 heard
-  - Highload applications: 👂 heard
-  - Clean architecture: 👂 heard
-  - DDD: 👂 heard
-  - Message Queue: 👂 heard
-  - CQS: 👂 heard
-  - CQRS: 👂 heard
-  - Event sourcing: 👂 heard
-  - Load balancing: 👂 heard
-  - Serverless clouds: 👂 heard
-  - FaaS clouds: 👂 heard
-  - Fat controller: 👂 heard
+  - Isolation between layer: 🖐 used
+  - Multilayer approach: 🖐️ used
+  - Separation of concerns: 🖐️ used
+  - Inversion of control: 🖐️ used
+  - Dependency injection: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - Distributed systems: 🖐️ used
+  - Highload applications: 🎓 known
+  - Clean architecture: 🎓 known
+  - DDD: 🎓 known
+  - Message Queue: 🖐️ used
+  - CQS: 🎓 known
+  - CQRS: 🎓 known
+  - Event sourcing: 🖐️ used
+  - Load balancing: 🎓 known
+  - Serverless clouds: 🎓 known
+  - FaaS clouds: 🎓 known
+  - Fat controller: 🎓 known
   - GoF for Node.js
-  - Leaking abstractions: 👂 heard
+  - Leaking abstractions: 🎓 known
 - Network
   - IP sticky sessions
   - Endpoint throttling
