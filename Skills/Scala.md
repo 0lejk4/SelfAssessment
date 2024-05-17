@@ -1,115 +1,115 @@
 ## Scala and Backend
 
 - Fundamentals and Concepts
-  - Functional Programming Paradigms: e
-  - Object-Oriented Programming in Scala: e
-  - Immutability and Side Effects: e
-  - Type Inference and Advanced Type Systems: e
-  - Concurrency Models (Akka, Futures): e
-  - Pattern Matching and Case Classes: e
-  - Collections API and Lazy Evaluation: e
-  - Scala's JVM Interoperability: e
-  - SBT (Scala Build Tool) Usage: e
-  - JVM Memory Management and Garbage Collection: e
-  - Performance Considerations in Scala: e
-  - Real-time Applications with Scala: e
-  - Data validation: r
-  - Tagging r
-  - Tagless Final r
-  - Typeclass e
-  - Cross compilation e
-  - Circe e
-  - Play-json e
-  - json4s e
-  - Phobos e
+  - Functional Programming Paradigms: 🙋 explained
+  - Object-Oriented Programming in Scala: 🙋 explained
+  - Immutability and Side Effects: 🙋 explained
+  - Type Inference and Advanced Type Systems: 🙋 explained
+  - Concurrency Models (Akka, Futures): 🙋 explained
+  - Pattern Matching and Case Classes: 🙋 explained
+  - Collections API and Lazy Evaluation: 🙋 explained
+  - Scala's JVM Interoperability: 🙋 explained
+  - SBT (Scala Build Tool) Usage: 🙋 explained
+  - JVM Memory Management and Garbage Collection: 🙋 explained
+  - Performance Considerations in Scala: 🙋 explained
+  - Real-time Applications with Scala: 🙋 explained
+  - Data validation: 🔬 researched
+  - Tagging: 🔬 researched
+  - Tagless Final: 🔬 researched
+  - Typeclass: 🙋 explained
+  - Cross compilation: 🙋 explained
+  - Circe: 🙋 explained
+  - Play-json: 🙋 explained
+  - json4s: 🙋 explained
+  - Phobos: 🙋 explained
 - Modularity, Layers, and Dependencies
-  - SBT and Build Definitions: e
-  - Package Management with Maven, Ivy and Coursier: e
-  - Implicit Conversions and Parameters: e
-  - Extension methods e
-  - Traits and Mixin Composition: e
-  - Modular Programming in Scala: e
-  - Dependency Injection Patterns: e
-  - Library and Framework Ecosystem: e
-  - Effective Use of Companion Objects: e
-  - Version Management and Binary Compatibility: e
+  - SBT and Build Definitions: 🙋 explained
+  - Package Management with Maven, Ivy and Coursier: 🙋 explained
+  - Implicit Conversions and Parameters: 🙋 explained
+  - Extension methods: 🙋 explained
+  - Traits and Mixin Composition: 🙋 explained
+  - Modular Programming in Scala: 🙋 explained
+  - Dependency Injection Patterns: 🙋 explained
+  - Library and Framework Ecosystem: 🙋 explained
+  - Effective Use of Companion Objects: 🙋 explained
+  - Version Management and Binary Compatibility: 🙋 explained
 - Environment and Tooling
-  - REPL (Read-Eval-Print Loop) Usage: e
-  - Scala IDEs and Editors: e
-  - Scalafmt for Code Formatting: e
-  - Scaladoc for Documentation: e
-  - ScalaTest and Spec2 for Testing: e
-  - Continuous Integration/Deployment Strategies: e
-  - Scalafix for Code Refactoring: e
-  - Monitoring and Profiling Scala Applications: e
-  - Library release e
-  - MDoc and Docusaurus for static documentation e
-  - Algolia for static documentation search e
-  - sbt-buildinfo e
-  - sbt-git e
-  - sbt-release e
-  - sbt-pack e
-  - sbt-header e
-  - sbt-ci-release e
-  - sbt-tpolecat e
+  - REPL (Read-Eval-Print Loop) Usage: 🙋 explained
+  - Scala IDEs and Editors: 🙋 explained
+  - Scalafmt for Code Formatting: 🙋 explained
+  - Scaladoc for Documentation: 🙋 explained
+  - ScalaTest and Spec2 for Testing: 🙋 explained
+  - Continuous Integration/Deployment Strategies: 🙋 explained
+  - Scalafix for Code Refactoring: 🙋 explained
+  - Monitoring and Profiling Scala Applications: 🙋 explained
+  - Library release: 🙋 explained
+  - MDoc and Docusaurus for static documentation: 🙋 explained
+  - Algolia for static documentation search: 🙋 explained
+  - sbt-buildinfo: 🙋 explained
+  - sbt-git: 🙋 explained
+  - sbt-release: 🙋 explained
+  - sbt-pack: 🙋 explained
+  - sbt-header: 🙋 explained
+  - sbt-ci-release: 🙋 explained
+  - sbt-tpolecat: 🙋 explained
 - Scala 3
-  - Notable changes e
-  - Migration from Scala 2 e
-  - Macroses and Quotes e
-  - Enums e
-  - Identation based syntax e
-  - Trait parameters e
-  - Derives e
-  - Opaque types e
-  - Intersection and enion types e
-  - Dependent function types e
-  - Polymorphic function types e
-  - Type lambdas e
-  - Match types e
-  - Inline e
-  - Quote Reflection API e
+  - Notable changes: 🙋 explained
+  - Migration from Scala 2: 🙋 explained
+  - Macroses and Quotes: 🙋 explained
+  - Enums: 🙋 explained
+  - Identation based syntax: 🙋 explained
+  - Trait parameters: 🙋 explained
+  - Derives: 🙋 explained
+  - Opaque types: 🙋 explained
+  - Intersection and enion types: 🙋 explained
+  - Dependent function types: 🙋 explained
+  - Polymorphic function types: 🙋 explained
+  - Type lambdas: 🙋 explained
+  - Match types: 🙋 explained
+  - Inline: 🙋 explained
+  - Quote Reflection API: 🙋 explained
 - Scala APIs and Libraries
-  - Akka for Actor-based Concurrency: e
-  - Akka Cluster e
-  - Akka Remote e
-  - Akka Persistence e
-  - Akka Stream e
-  - Akka Connectors e
-  - Pekko e
-  - Sttp e
-  - ZIO, Cats Effect for async programming: e
-  - DIstage for DI: e
-  - Play Framework for Web Applications: e
-  - Cats for Functional Programming: e
-  - Slick, Quill, Doobie for Database Access: e
-  - Redis4s e
-  - Cassandar e
-  - FS2 e
-  - HTTP4s and Akka HTTP for Networking: e
-  - Scala.js for Scala to JavaScript Compilation: h
-  - Circe and Play JSON for JSON Handling: e
-  - Typelevel Libraries (Cats Effect, Monix): e
-  - Tapir e
-  - Newtype e
+  - Akka for Actor-based Concurrency: 🙋 explained
+  - Akka Cluster: 🙋 explained
+  - Akka Remote: 🙋 explained
+  - Akka Persistence: 🙋 explained
+  - Akka Stream: 🙋 explained
+  - Akka Connectors: 🙋 explained
+  - Pekko: 🙋 explained
+  - Sttp: 🙋 explained
+  - ZIO, Cats Effect for async programming: 🙋 explained
+  - DIstage for DI: 🙋 explained
+  - Play Framework for Web Applications: 🙋 explained
+  - Cats for Functional Programming: 🙋 explained
+  - Slick, Quill, Doobie for Database Access: 🙋 explained
+  - Redis4s: 🙋 explained
+  - Cassandar: 🙋 explained
+  - FS2: 🙋 explained
+  - HTTP4s and Akka HTTP for Networking: 🙋 explained
+  - Scala.js for Scala to JavaScript Compilation: 👂 heard
+  - Circe and Play JSON for JSON Handling: 🙋 explained
+  - Typelevel Libraries (Cats Effect, Monix): 🙋 explained
+  - Tapir: 🙋 explained
+  - Newtype: 🙋 explained
 - Application Architecture
-  - Clean Architecture and DDD in Scala: e
-  - Microservices with Scala and Akka: e
-  - Event Sourcing and CQRS Patterns: e
-  - Functional and Reactive Programming Patterns: e
-  - Scalability and High Availability Strategies: e
-  - Resilience and Fault Tolerance (Circuit Breakers, Backoff Strategies): e
-  - API Design and Versioning: e
-  - Message Queues and Event Streaming (Kafka, RabbitMQ): e
+  - Clean Architecture and DDD in Scala: 🙋 explained
+  - Microservices with Scala and Akka: 🙋 explained
+  - Event Sourcing and CQRS Patterns: 🙋 explained
+  - Functional and Reactive Programming Patterns: 🙋 explained
+  - Scalability and High Availability Strategies: 🙋 explained
+  - Resilience and Fault Tolerance (Circuit Breakers, Backoff Strategies): 🙋 explained
+  - API Design and Versioning: 🙋 explained
+  - Message Queues and Event Streaming (Kafka, RabbitMQ): 🙋 explained
 - Network and Security
-  - RESTful API Development: e
-  - WebSockets and Real-Time Communication: e
-  - gRPC and Protocol Buffers: e
-  - Secure Coding Practices in Scala: e
-  - OAuth and JWT for Authentication: e
-  - TLS/SSL Implementation: e
-  - Handling Cross-Site Scripting (XSS) and SQL Injection: e
+  - RESTful API Development: 🙋 explained
+  - WebSockets and Real-Time Communication: 🙋 explained
+  - gRPC and Protocol Buffers: 🙋 explained
+  - Secure Coding Practices in Scala: 🙋 explained
+  - OAuth and JWT for Authentication: 🙋 explained
+  - TLS/SSL Implementation: 🙋 explained
+  - Handling Cross-Site Scripting (XSS) and SQL Injection: 🙋 explained
 - Data Access and Management
-  - Scala and NoSQL Databases (Cassandra, Couchbasee, MongoDB): e
-  - RDBMS Access (Postgres, MySQL): e
-  - ORM Tools (Slick, Quill): e
-  - Stream Processing (Akka Streams, ZIO Streams): e
+  - Scala and NoSQL Databases (Cassandra, Couchbasee, MongoDB): 🙋 explained
+  - RDBMS Access (Postgres, MySQL): 🙋 explained
+  - ORM Tools (Slick, Quill): 🙋 explained
+  - Stream Processing (Akka Streams, ZIO Streams): 🙋 explained
