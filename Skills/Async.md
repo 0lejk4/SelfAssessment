@@ -2,7 +2,7 @@
 
 - Theory
   - Event loop: 🎓 known
-  - try..catch: 🖐️ used
+  - `try..catch`: 🖐️ used
   - Non-blocking: 🎓 known
   - Async I/O: 🎓 known
   - Thread pool: 🎓 known
@@ -44,8 +44,8 @@
   - callbackify: 🎓 known
   - promisify: 🎓 known
   - asyncify
-  - callbacks compose: 🎓 known
-  - async compose: 🎓 known
+  - Callbacks compose: 🎓 known
+  - Async compose: 🎓 known
 - Async abstractions interfaces
   - EventEmitter: 👂 heard
   - Observable/Observer: 🖐️ used
@@ -60,14 +60,12 @@
   - Spin Lock: 🖐️ used
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - setImmediate: 🖐️ used
-  - nextTick
+  - `setImmediate`: 🖐️ used
+  - `nextTick`
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
-  - worker_threads
   - Atomics
   - High resolution clock
   - Callback hell: 🎓 known
@@ -75,13 +73,13 @@
   - ref() and unref()
   - Error handling in async code: 🎓 known
   - Better stack traces with return await
-  - JSON: streaming serialization: 🖐️ used
+  - JSON streaming serialization: 🖐️ used
   - promisify: 👂 heard
   - callbackify: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - Async.js library
   - RxJS library: 👂 heard
   - Async composition: 🖐️ used
   - Promise.all: 🖐️ used
@@ -91,5 +89,4 @@
   - Web Locks API
   - IPC
   - Channel API
-  - Revealing Constructor
-  - Web Locks API
+  - Revealing constructor
