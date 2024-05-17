@@ -1,50 +1,50 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js 🎓 known
-  - Stateful and stateless servers 🎓 known
-  - Nonblocking I/O and blocking code 🎓 known
-  - Event loop phases 🎓 known
-  - Event loop microtasks and macrotasks 🎓 known
-  - Garbage collection 🎓 known
-  - Node.js LTS schedule 🎓 known
-  - I/O-bound, CPU-bound, memory-bound tasks 🎓 known
-  - Interactive applications (close to real-time) 🎓 known
+  - Strong and weak sides of node.js: 🎓 known
+  - Stateful and stateless servers: 🎓 known
+  - Nonblocking I/O and blocking code: 🎓 known
+  - Event loop phases: 🎓 known
+  - Event loop microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 🎓 known
+  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
+  - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules 🎓 known
-  - ECMAScript modules 🎓 known
-  - Module `node:module` 🎓 known
-  - Caching in CJS and ESM 🎓 known
-  - Modules as singletons 🎓 known
-  - Contexts and scripts module `node:vm` 🎓 known
-  - Dependencies: `npm`, `node_modules` 🎓 known
-  - Files `package.json`, `package-lock.json` 🎓 known
-  - Module-based permissions model 🎓 known
-  - Isolation with modularity 🎓 known
-  - Dependency injection 🎓 known
-  - DI containers 🎓 known
-  - Coupling and cohesion 🎓 known
-  - Framework agnostic approach 🎓 known
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
+  - Module `node:module`: 🎓 known
+  - Caching in CJS and ESM: 🎓 known
+  - Modules as singletons: 🎓 known
+  - Contexts and scripts module `node:vm`: 🎓 known
+  - Dependencies: `npm`, `node_modules`: 🎓 known
+  - Files `package.json`, `package-lock.json`: 🎓 known
+  - Module-based permissions model: 🎓 known
+  - Isolation with modularity: 🎓 known
+  - Dependency injection: 🎓 known
+  - DI containers: 🎓 known
+  - Coupling and cohesion: 🎓 known
+  - Framework agnostic approach: 🎓 known
 - Environment
-  - Command line arguments 🎓 known
-  - Node.js CLI 🎓 known
-  - Process-based permissions 🎓 known
-  - Graceful shutdown 🎓 known
-  - Clustering 🎓 known
-  - Watch filesystem changes with --watch 🎓 known
+  - Command line arguments: 🎓 known
+  - Node.js CLI: 🎓 known
+  - Process-based permissions: 🎓 known
+  - Graceful shutdown: 🎓 known
+  - Clustering: 🎓 known
+  - Watch filesystem changes with --watch: 🎓 known
 - Internal API
-  - Streams API 🎓 known
-  - Web Streams API 🎓 known
-  - Crypto API 🎓 known
-  - Password hashing with node:crypto.scrypt 🎓 known
-  - Web Crypto API 🎓 known
-  - File system API (sync and async) 🎓 known
-  - Copy folder recursively 🎓 known
-  - Worker threads 🎓 known
-  - Performance hooks 🎓 known
-  - Native fetch and nodejs/undici 🎓 known
+  - Streams API: 🎓 known
+  - Web Streams API: 🎓 known
+  - Crypto API: 🎓 known
+  - Password hashing with node:crypto.scrypt: 🎓 known
+  - Web Crypto API: 🎓 known
+  - File system API (sync and async): 🎓 known
+  - Copy folder recursively: 🎓 known
+  - Worker threads: 🎓 known
+  - Performance hooks: 🎓 known
+  - Native fetch and nodejs/undici: 🎓 known
   - async_hooks
-  - AsyncLocalStorage 🎓 known
+  - AsyncLocalStorage: 🎓 known
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
@@ -53,77 +53,77 @@
   - Module `node:child_process`
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID 🎓 known
+  - Generating crypto random UUID: 🎓 known
   - Module `node:url` vs `new URL`
   - Module `node:assert`
-  - Internationalization 🎓 known
-  - Blob, File, Buffer, module `node:buffer` 🎓 known
-  - Module `node:zlib` 🎓 known
+  - Internationalization: 🎓 known
+  - Blob, File, Buffer, module `node:buffer`: 🎓 known
+  - Module `node:zlib`: 🎓 known
 - Network
-  - Endpoint throttling 🎓 known
-  - ALPN 🎓 known
-  - SNI callback 🎓 known
-  - SSL certificates 🎓 known
-  - Protocol agnostic approach 🎓 known
-  - Fetch API 🎓 known
-  - IncomingMessage 🎓 known
-  - HTTP(S) 🎓 known
-  - TCP/SSL 🎓 known
-  - UDP 🎓 known
-  - TLS 🎓 known
-  - Websocket 🎓 known
-  - SSE 🎓 known
-  - HTTP/3 (QUIC) 🎓 known
-  - Long polling 🎓 known
-  - REST 🎓 known
-  - RPC 🎓 known
-  - Routing 🎓 known
-  - DoS 🎓 known
-  - DDoS 🎓 known
-  - XSS 🎓 known
-  - Path traversal 🎓 known
-  - CSRF 🎓 known
-  - DNS 🎓 known
-  - SQL injection 🎓 known
-  - noDelay 🎓 known
-  - keep-alive 🎓 known
-  - IP sticky sessions 🎓 known
+  - Endpoint throttling: 🎓 known
+  - ALPN: 🎓 known
+  - SNI callback: 🎓 known
+  - SSL certificates: 🎓 known
+  - Protocol agnostic approach: 🎓 known
+  - Fetch API: 🎓 known
+  - IncomingMessage: 🎓 known
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
+  - Websocket: 🎓 known
+  - SSE: 🎓 known
+  - HTTP/3 (QUIC): 🎓 known
+  - Long polling: 🎓 known
+  - REST: 🎓 known
+  - RPC: 🎓 known
+  - Routing: 🎓 known
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
+  - XSS: 🎓 known
+  - Path traversal: 🎓 known
+  - CSRF: 🎓 known
+  - DNS: 🎓 known
+  - SQL injection: 🎓 known
+  - noDelay: 🎓 known
+  - keep-alive: 🎓 known
+  - IP sticky sessions: 🎓 known
 - Technique and tools
-  - Native test runner 🎓 known
-  - Logging 🎓 known
-  - Application configuring 🎓 known
-  - Testing 🎓 known
-  - CI/CD 🎓 known
-  - Readable 🎓 known
-  - Writable 🎓 known
-  - Transform 🎓 known
-  - Back pressure 🎓 known
-  - Buffer 🎓 known
-  - Console 🎓 known
-  - Inspector 🎓 known
+  - Native test runner: 🎓 known
+  - Logging: 🎓 known
+  - Application configuring: 🎓 known
+  - Testing: 🎓 known
+  - CI/CD: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🎓 known
+  - Back pressure: 🎓 known
+  - Buffer: 🎓 known
+  - Console: 🎓 known
+  - Inspector: 🎓 known
 - Data access
-  - Data access layer 🎓 known
-  - Repository 🎓 known
-  - Active record 🎓 known
-  - Query builder 🎓 known
-  - Object-Relational Mapping 🎓 known
-  - CRUD 🎓 known
-  - DTO 🎓 known
+  - Data access layer: 🎓 known
+  - Repository: 🎓 known
+  - Active record: 🎓 known
+  - Query builder: 🎓 known
+  - Object-Relational Mapping: 🎓 known
+  - CRUD: 🎓 known
+  - DTO: 🎓 known
 - Error handling and debugging
-  - `Error` 🎓 known
-  - `error.cause` 🎓 known
-  - `error.code` 🎓 known
-  - `error.message` 🎓 known
-  - `error.stack` 🎓 known
-  - `Error.captureStackTrace` 🎓 known
-  - How to avoid mixins 🎓 known
-  - Uncaught exceptions 🎓 known
-  - Heap dump 🎓 known
-  - Debugging tools 🎓 known
-  - Flame graph 🎓 known
-  - Memory leaks 🎓 known
-  - Resource leaks 🎓 known
-  - Data race 🎓 known
+  - `Error`: 🎓 known
+  - `error.cause`: 🎓 known
+  - `error.code`: 🎓 known
+  - `error.message`: 🎓 known
+  - `error.stack`: 🎓 known
+  - `Error.captureStackTrace`: 🎓 known
+  - How to avoid mixins: 🎓 known
+  - Uncaught exceptions: 🎓 known
+  - Heap dump: 🎓 known
+  - Debugging tools: 🎓 known
+  - Flame graph: 🎓 known
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
+  - Data race: 🎓 known
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons

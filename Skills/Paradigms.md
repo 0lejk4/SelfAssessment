@@ -16,76 +16,76 @@
   - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages 🎓 known
-  - Multi-paradigm programming 🎓 known
-  - Metaprogramming 🎓 known
-  - Actor model 🎓 known
-  - Lambda calculus 🎓 known
-  - Black box 🎓 known
-  - Information hiding 🎓 known
-  - Aspect-oriented programming 🎓 known
-  - Anemic domain model 🎓 known
-  - Class composition 🎓 known
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 🎓 known
+  - Actor model: 🎓 known
+  - Lambda calculus: 🎓 known
+  - Black box: 🎓 known
+  - Information hiding: 🎓 known
+  - Aspect-oriented programming: 🎓 known
+  - Anemic domain model: 🎓 known
+  - Class composition: 🎓 known
 - OOP basics
-  - Constructor 🎓 known
-  - Operator `new` 🎓 known
-  - Static method 🎓 known
-  - Method 🎓 known
-  - Async method 🎓 known
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
-  - Field declarations 🎓 known
-  - Inheritance 🎓 known
-  - Parent class 🎓 known
-  - Polymorphism 🎓 known
-  - Abstract class 🎓 known
-  - Interface 🎓 known
-  - Encapsulation 🎓 known
-  - Hidden class 🎓 known
-  - Object form 🎓 known
-  - Instance 🎓 known
-  - Introspection 🎓 known
-  - Reflection 🎓 known
-  - The diamond problem 🎓 known
+  - Constructor: 🎓 known
+  - Operator `new`: 🎓 known
+  - Static method: 🎓 known
+  - Method: 🎓 known
+  - Async method: 🎓 known
+  - Getters, Setters: 🎓 known
+  - Public fields: 🎓 known
+  - Private fields: 🎓 known
+  - Field declarations: 🎓 known
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form: 🎓 known
+  - Instance: 🎓 known
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
+  - The diamond problem: 🎓 known
 - GRASP
-  - Information expert 🎓 known
-  - Creator 🎓 known
-  - Controller 🎓 known
-  - Indirection 🎓 known
-  - Low coupling 🎓 known
-  - High cohesion 🎓 known
-  - Protected variations 🎓 known
-  - Pure fabrication 🎓 known
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
-  - Single-responsibility principle (SRP) 🎓 known
-  - Open–closed principle (OCP) 🎓 known
-  - Liskov substitution principle (LSP) 🎓 known
-  - Interface segregation principle (ISP) 🎓 known
-  - Dependency inversion principle (DIP) 🎓 known
+  - Single-responsibility principle (SRP): 🎓 known
+  - Open–closed principle (OCP): 🎓 known
+  - Liskov substitution principle (LSP): 🎓 known
+  - Interface segregation principle (ISP): 🎓 known
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
-  - Singleton 🎓 known
-  - Factory Method 🎓 known
-  - Abstract Factory 🎓 known
-  - Adapter 🎓 known
-  - Observer 🎓 known
-  - Strategy 🎓 known
-  - Facade 🎓 known
-  - Proxy 🎓 known
-  - Chain of Responsibility 🎓 known
-  - Command 🎓 known
-  - Iterator 🎓 known
-  - State 🎓 known
-  - Bridge 🎓 known
-  - Builder 🎓 known
-  - Prototype 🎓 known
-  - Composite 🎓 known
-  - Decorator 🎓 known
-  - Flyweight 🎓 known
-  - Mediator 🎓 known
-  - Memento 🎓 known
-  - Template Method 🎓 known
-  - Visitor 🎓 known
-  - Reactor 🎓 known
-  - Active object 🎓 known
-  - Delegation 🎓 known
+  - Singleton: 🎓 known
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 🎓 known
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
+  - Decorator: 🎓 known
+  - Flyweight: 🎓 known
+  - Mediator: 🎓 known
+  - Memento: 🎓 known
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
+  - Reactor: 🎓 known
+  - Active object: 🎓 known
+  - Delegation: 🎓 known

@@ -106,7 +106,6 @@
   - Layered: 🖐️ used
   - Client-Server: 🖐️ used
   - Event-Driven: 🖐️ used
-  - Microservices: 🖐️ used
   - Saga: 🖐️ used
   - Event-Bus: 🖐️ used
   - DDD: 🖐️ used

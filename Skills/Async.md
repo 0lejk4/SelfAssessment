@@ -74,8 +74,6 @@
   - Error handling in async code: 🎓 known
   - Better stack traces with return await
   - JSON streaming serialization: 🖐️ used
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

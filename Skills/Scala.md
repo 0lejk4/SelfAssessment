@@ -14,19 +14,19 @@
   - Performance Considerations in Scala: 🎓 known
   - Real-time Applications with Scala: 🎓 known
   - Data validation: 🔬 researched
-  - Tagging 🎓 known
-  - Tagless Final 🎓 known
-  - Typeclass 🎓 known
-  - Cross compilation 🎓 known
-  - Circe 🎓 known
-  - Play-json 🎓 known
-  - json4s 🎓 known
-  - Phobos 🎓 known
+  - Tagging: 🎓 known
+  - Tagless Final: 🎓 known
+  - Typeclass: 🎓 known
+  - Cross compilation: 🎓 known
+  - Circe: 🎓 known
+  - Play-json: 🎓 known
+  - json4s: 🎓 known
+  - Phobos: 🎓 known
 - Modularity, Layers, and Dependencies
   - SBT and Build Definitions: 🎓 known
   - Package Management with Maven, Ivy and Coursier: 🎓 known
   - Implicit Conversions and Parameters: 🎓 known
-  - Extension methods 🎓 known
+  - Extension methods: 🎓 known
   - Traits and Mixin Composition: 🎓 known
   - Modular Programming in Scala: 🎓 known
   - Dependency Injection Patterns: 🎓 known
@@ -42,55 +42,55 @@
   - Continuous Integration/Deployment Strategies: 🎓 known
   - Scalafix for Code Refactoring: 🎓 known
   - Monitoring and Profiling Scala Applications: 🎓 known
-  - Library release 🎓 known
-  - MDoc and Docusaurus for static documentation 🎓 known
-  - Algolia for static documentation search 🎓 known
-  - sbt-buildinfo 🎓 known
-  - sbt-git 🎓 known
-  - sbt-release 🎓 known
-  - sbt-pack 🎓 known
-  - sbt-header 🎓 known
-  - sbt-ci-release 🎓 known
-  - sbt-tpolecat 🎓 known
+  - Library release: 🎓 known
+  - MDoc and Docusaurus for static documentation: 🎓 known
+  - Algolia for static documentation search: 🎓 known
+  - sbt-buildinfo: 🎓 known
+  - sbt-git: 🎓 known
+  - sbt-release: 🎓 known
+  - sbt-pack: 🎓 known
+  - sbt-header: 🎓 known
+  - sbt-ci-release: 🎓 known
+  - sbt-tpolecat: 🎓 known
 - Scala 3
-  - Notable changes 🎓 known
-  - Migration from Scala 2 🎓 known
-  - Macroses and Quotes 🎓 known
-  - Enums 🎓 known
-  - Identation based syntax 🎓 known
-  - Trait parameters 🎓 known
-  - Derives 🎓 known
-  - Opaque types 🎓 known
-  - Intersection and union types 🎓 known
-  - Dependent function types 🎓 known
-  - Polymorphic function types 🎓 known
-  - Type lambdas 🎓 known
-  - Match types 🎓 known
-  - Inline 🎓 known
-  - Quote Reflection API 🎓 known
+  - Notable changes: 🎓 known
+  - Migration from Scala 2: 🎓 known
+  - Macroses and Quotes: 🎓 known
+  - Enums: 🎓 known
+  - Identation based syntax: 🎓 known
+  - Trait parameters: 🎓 known
+  - Derives: 🎓 known
+  - Opaque types: 🎓 known
+  - Intersection and union types: 🎓 known
+  - Dependent function types: 🎓 known
+  - Polymorphic function types: 🎓 known
+  - Type lambdas: 🎓 known
+  - Match types: 🎓 known
+  - Inline: 🎓 known
+  - Quote Reflection API: 🎓 known
 - Scala APIs and Libraries
   - Akka for Actor-based Concurrency: 🎓 known
-  - Akka Cluster 🎓 known
-  - Akka Remote 🎓 known
-  - Akka Persistence 🎓 known
-  - Akka Stream 🎓 known
-  - Akka Connectors 🎓 known
-  - Pekko 🎓 known
-  - Sttp 🎓 known
+  - Akka Cluster: 🎓 known
+  - Akka Remote: 🎓 known
+  - Akka Persistence: 🎓 known
+  - Akka Stream: 🎓 known
+  - Akka Connectors: 🎓 known
+  - Pekko: 🎓 known
+  - Sttp: 🎓 known
   - ZIO, Cats Effect for async programming: 🎓 known
   - DIstage for DI: 🎓 known
   - Play Framework for Web Applications: 🎓 known
   - Cats for Functional Programming: 🎓 known
   - Slick, Quill, Doobie for Database Access: 🎓 known
-  - Redis4s 🎓 known
-  - Cassandar 🎓 known
-  - FS2 🎓 known
+  - Redis4s: 🎓 known
+  - Cassandar: 🎓 known
+  - FS2: 🎓 known
   - HTTP4s and Akka HTTP for Networking: 🎓 known
   - Scala.js for Scala to JavaScript Compilation: 👂 heard
   - Circe and Play JSON for JSON Handling: 🎓 known
   - Typelevel Libraries (Cats Effect, Monix): 🎓 known
-  - Tapir 🎓 known
-  - Newtype 🎓 known
+  - Tapir: 🎓 known
+  - Newtype: 🎓 known
 - Application Architecture
   - Clean Architecture and DDD in Scala: 🎓 known
   - Microservices with Scala and Akka: 🎓 known
