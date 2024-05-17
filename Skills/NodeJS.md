@@ -1,50 +1,50 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers: 🎓 known
-  - Nonblocking I/O and blocking code: 🎓 known
-  - Event loop phases: 🎓 known
-  - Event loop microtasks and macrotasks: 🎓 known
-  - Garbage collection: 🎓 known
-  - Node.js LTS schedule: 🎓 known
-  - I/O-bound, CPU-bound, memory-bound tasks: 🎓 known
-  - Interactive applications (close to real-time): 🎓 known
+  - Strong and weak sides of node.js u
+  - Stateful and stateless servers u
+  - Nonblocking I/O and blocking code u
+  - Event loop phases u
+  - Event loop microtasks and macrotasks u
+  - Garbage collection u
+  - Node.js LTS schedule u
+  - I/O-bound, CPU-bound, memory-bound tasks u
+  - Interactive applications (close to real-time) u
 - Modularity, layers and dependencies
-  - CommonJS modules: 🎓 known
-  - ECMAScript modules: 🎓 known
-  - Module `node:module`: 🎓 known
-  - Caching in CJS and ESM: 🎓 known
-  - Modules as singletons: 🎓 known
-  - Contexts and scripts module `node:vm`: 🎓 known
-  - Dependencies: `npm`, `node_modules`: 🎓 known
-  - Files `package.json`, `package-lock.json`: 🎓 known
-  - Module-based permissions model: 🎓 known
-  - Isolation with modularity: 🎓 known
-  - Dependency injection: 🎓 known
-  - DI containers: 🎓 known
-  - Coupling and cohesion: 🎓 known
-  - Framework agnostic approach: 🎓 known
+  - CommonJS modules u
+  - ECMAScript modules u
+  - Module `node:module` u
+  - Caching in CJS and ESM u
+  - Modules as singletons u
+  - Contexts and scripts module `node:vm` u
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
+  - Module-based permissions model u
+  - Isolation with modularity u
+  - Dependency injection u
+  - DI containers u
+  - Coupling and cohesion u
+  - Framework agnostic approach u
 - Environment
-  - Command line arguments: 🎓 known
-  - Node.js CLI: 🎓 known
-  - Process-based permissions: 🎓 known
-  - Graceful shutdown: 🎓 known
-  - Clustering: 🎓 known
-  - Watch filesystem changes with --watch: 🎓 known
+  - Command line arguments u
+  - Node.js CLI u
+  - Process-based permissions u
+  - Graceful shutdown u
+  - Clustering u
+  - Watch filesystem changes with --watch u
 - Internal API
-  - Streams API: 🎓 known
-  - Web Streams API: 🎓 known
-  - Crypto API: 🎓 known
-  - Password hashing with node:crypto.scrypt: 🎓 known
-  - Web Crypto API: 🎓 known
-  - File system API (sync and async): 🎓 known
-  - Copy folder recursively: 🎓 known
-  - Worker threads: 🎓 known
-  - Performance hooks: 🎓 known
-  - Native fetch and nodejs/undici: 🎓 known
+  - Streams API u
+  - Web Streams API u
+  - Crypto API u
+  - Password hashing with node:crypto.scrypt u
+  - Web Crypto API u
+  - File system API (sync and async) u
+  - Copy folder recursively u
+  - Worker threads u
+  - Performance hooks u
+  - Native fetch and nodejs/undici u
   - async_hooks
-  - AsyncLocalStorage: 🎓 known
+  - AsyncLocalStorage u
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
@@ -53,77 +53,77 @@
   - Module `node:child_process`
   - MessageChannel, MessagePort
   - BroadcastChannel
-  - Generating crypto random UUID: 🎓 known
+  - Generating crypto random UUID u
   - Module `node:url` vs `new URL`
   - Module `node:assert`
-  - Internationalization: 🎓 known
-  - Blob, File, Buffer, module `node:buffer`: 🎓 known
-  - Module `node:zlib`: 🎓 known
+  - Internationalization u
+  - Blob, File, Buffer, module `node:buffer` u
+  - Module `node:zlib` u
 - Network
-  - Endpoint throttling: 🎓 known
-  - ALPN: 🎓 known
-  - SNI callback: 🎓 known
-  - SSL certificates: 🎓 known
-  - Protocol agnostic approach: 🎓 known
-  - Fetch API: 🎓 known
-  - IncomingMessage: 🎓 known
-  - HTTP(S): 🎓 known
-  - TCP/SSL: 🎓 known
-  - UDP: 🎓 known
-  - TLS: 🎓 known
-  - Websocket: 🎓 known
-  - SSE: 🎓 known
-  - HTTP/3 (QUIC): 🎓 known
-  - Long polling: 🎓 known
-  - REST: 🎓 known
-  - RPC: 🎓 known
-  - Routing: 🎓 known
-  - DoS: 🎓 known
-  - DDoS: 🎓 known
-  - XSS: 🎓 known
-  - Path traversal: 🎓 known
-  - CSRF: 🎓 known
-  - DNS: 🎓 known
-  - SQL injection: 🎓 known
-  - noDelay: 🎓 known
-  - keep-alive: 🎓 known
-  - IP sticky sessions: 🎓 known
+  - Endpoint throttling u
+  - ALPN u
+  - SNI callback u
+  - SSL certificates u
+  - Protocol agnostic approach u
+  - Fetch API u
+  - IncomingMessage u
+  - HTTP(S) u
+  - TCP/SSL u
+  - UDP u
+  - TLS u
+  - Websocket u
+  - SSE u
+  - HTTP/3 (QUIC) u
+  - Long polling u
+  - REST u
+  - RPC u
+  - Routing u
+  - DoS u
+  - DDoS u
+  - XSS u
+  - Path traversal u
+  - CSRF u
+  - DNS u
+  - SQL injection u
+  - noDelay u
+  - keep-alive u
+  - IP sticky sessions u
 - Technique and tools
-  - Native test runner: 🎓 known
-  - Logging: 🎓 known
-  - Application configuring: 🎓 known
-  - Testing: 🎓 known
-  - CI/CD: 🎓 known
-  - Readable: 🎓 known
-  - Writable: 🎓 known
-  - Transform: 🎓 known
-  - Back pressure: 🎓 known
-  - Buffer: 🎓 known
-  - Console: 🎓 known
-  - Inspector: 🎓 known
+  - Native test runner u
+  - Logging u
+  - Application configuring u
+  - Testing u
+  - CI/CD u
+  - Readable u
+  - Writable u
+  - Transform u
+  - Back pressure u
+  - Buffer u
+  - Console u
+  - Inspector u
 - Data access
-  - Data access layer: 🎓 known
-  - Repository: 🎓 known
-  - Active record: 🎓 known
-  - Query builder: 🎓 known
-  - Object-Relational Mapping: 🎓 known
-  - CRUD: 🎓 known
-  - DTO: 🎓 known
+  - Data access layer u
+  - Repository u
+  - Active record u
+  - Query builder u
+  - Object-Relational Mapping u
+  - CRUD u
+  - DTO u
 - Error handling and debugging
-  - `Error`: 🎓 known
-  - `error.cause`: 🎓 known
-  - `error.code`: 🎓 known
-  - `error.message`: 🎓 known
-  - `error.stack`: 🎓 known
-  - `Error.captureStackTrace`: 🎓 known
-  - How to avoid mixins: 🎓 known
-  - Uncaught exceptions: 🎓 known
-  - Heap dump: 🎓 known
-  - Debugging tools: 🎓 known
-  - Flame graph: 🎓 known
-  - Memory leaks: 🎓 known
-  - Resource leaks: 🎓 known
-  - Data race: 🎓 known
+  - `Error` u
+  - `error.cause` u
+  - `error.code` u
+  - `error.message` u
+  - `error.stack` u
+  - `Error.captureStackTrace` u
+  - How to avoid mixins u
+  - Uncaught exceptions u
+  - Heap dump u
+  - Debugging tools u
+  - Flame graph u
+  - Memory leaks u
+  - Resource leaks u
+  - Data race u
 - Integrations and bindings
   - Native addons
   - `C` and `C++` addons

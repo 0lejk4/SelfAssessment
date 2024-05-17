@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
-  - Imperative programming: 🎓 known
-  - Structured programming: 🎓 known
-  - Non-structured programming: 🎓 known
-  - Functional programming: 🎓 known
-  - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🎓 known
-  - Object-based programming: 🎓 known
-  - Generic programming: 🎓 known
-  - Concurrent computing: 🎓 known
-  - Asynchronous programming: 🎓 known
-  - Parallel programming: 🎓 known
-  - Reactive programming: 🎓 known
+  - Procedural programming: u
+  - Imperative programming: u
+  - Structured programming: u
+  - Non-structured programming: u
+  - Functional programming: u
+  - Prototype-based programming: u
+  - Object-oriented programming: u
+  - Object-based programming: u
+  - Generic programming: u
+  - Concurrent computing: u
+  - Asynchronous programming: u
+  - Parallel programming: u
+  - Reactive programming: u
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages: 🎓 known
-  - Multi-paradigm programming: 🎓 known
-  - Metaprogramming: 🎓 known
-  - Actor model: 🎓 known
-  - Lambda calculus: 🎓 known
-  - Black box: 🎓 known
-  - Information hiding: 🎓 known
-  - Aspect-oriented programming: 🎓 known
-  - Anemic domain model: 🎓 known
-  - Class composition: 🎓 known
+  - Domain-specific languages u
+  - Multi-paradigm programming u
+  - Metaprogramming u
+  - Actor model u
+  - Lambda calculus u
+  - Black box u
+  - Information hiding u
+  - Aspect-oriented programming u
+  - Anemic domain model u
+  - Class composition u
 - OOP basics
-  - Constructor: 🎓 known
-  - Operator `new`: 🎓 known
-  - Static method: 🎓 known
-  - Method: 🎓 known
-  - Async method: 🎓 known
-  - Getters, Setters: 🎓 known
-  - Public fields: 🎓 known
-  - Private fields: 🎓 known
-  - Field declarations: 🎓 known
-  - Inheritance: 🎓 known
-  - Parent class: 🎓 known
-  - Polymorphism: 🎓 known
-  - Abstract class: 🎓 known
-  - Interface: 🎓 known
-  - Encapsulation: 🎓 known
-  - Hidden class: 🎓 known
-  - Object form: 🎓 known
-  - Instance: 🎓 known
-  - Introspection: 🎓 known
-  - Reflection: 🎓 known
-  - The diamond problem: 🎓 known
+  - Constructor u
+  - Operator `new` u
+  - Static method u
+  - Method u
+  - Async method u
+  - Getters, Setters u
+  - Public fields u
+  - Private fields u
+  - Field declarations u
+  - Inheritance u
+  - Parent class u
+  - Polymorphism u
+  - Abstract class u
+  - Interface u
+  - Encapsulation u
+  - Hidden class u
+  - Object form u
+  - Instance u
+  - Introspection u
+  - Reflection u
+  - The diamond problem u
 - GRASP
-  - Information expert: 🎓 known
-  - Creator: 🎓 known
-  - Controller: 🎓 known
-  - Indirection: 🎓 known
-  - Low coupling: 🎓 known
-  - High cohesion: 🎓 known
-  - Protected variations: 🎓 known
-  - Pure fabrication: 🎓 known
+  - Information expert u
+  - Creator u
+  - Controller u
+  - Indirection u
+  - Low coupling u
+  - High cohesion u
+  - Protected variations u
+  - Pure fabrication u
 - SOLID
-  - Single-responsibility principle (SRP): 🎓 known
-  - Open–closed principle (OCP): 🎓 known
-  - Liskov substitution principle (LSP): 🎓 known
-  - Interface segregation principle (ISP): 🎓 known
-  - Dependency inversion principle (DIP): 🎓 known
+  - Single-responsibility principle (SRP) u
+  - Open–closed principle (OCP) u
+  - Liskov substitution principle (LSP) u
+  - Interface segregation principle (ISP) u
+  - Dependency inversion principle (DIP) u
 - Patterns
-  - Singleton: 🎓 known
-  - Factory Method: 🎓 known
-  - Abstract Factory: 🎓 known
-  - Adapter: 🎓 known
-  - Observer: 🎓 known
-  - Strategy: 🎓 known
-  - Facade: 🎓 known
-  - Proxy: 🎓 known
-  - Chain of Responsibility: 🎓 known
-  - Command: 🎓 known
-  - Iterator: 🎓 known
-  - State: 🎓 known
-  - Bridge: 🎓 known
-  - Builder: 🎓 known
-  - Prototype: 🎓 known
-  - Composite: 🎓 known
-  - Decorator: 🎓 known
-  - Flyweight: 🎓 known
-  - Mediator: 🎓 known
-  - Memento: 🎓 known
-  - Template Method: 🎓 known
-  - Visitor: 🎓 known
-  - Reactor: 🎓 known
-  - Active object: 🎓 known
-  - Delegation: 🎓 known
+  - Singleton u
+  - Factory Method u
+  - Abstract Factory u
+  - Adapter u
+  - Observer u
+  - Strategy u
+  - Facade u
+  - Proxy u
+  - Chain of Responsibility u
+  - Command u
+  - Iterator u
+  - State u
+  - Bridge u
+  - Builder u
+  - Prototype u
+  - Composite u
+  - Decorator u
+  - Flyweight u
+  - Mediator u
+  - Memento u
+  - Template Method u
+  - Visitor u
+  - Reactor u
+  - Active object u
+  - Delegation u

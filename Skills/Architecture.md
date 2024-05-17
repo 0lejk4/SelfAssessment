@@ -1,111 +1,112 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Modularity u
+  - Componentsu
+  - Directories u
+  - GRASP u
+  - SOLID u
+  - GoF patterns u
+  - CQS u
+  - Leaking abstractions u
+  - Multiparadigm code u
+  - Contract programming u
+  - Platform-agnostic u
+  - Transport-agnostic u
+  - Framework-agnostic u
+  - Code coverage u
+  - Cohesion u
+  - Coupling u
+  - Cyclomatic complexity u
+  - Reliability u
+  - Quality u
+  - Availability u
+  - Flexibility u
+  - Law of Demeter (LoD) h
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
-  - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
-  - Bus factor
+  - Isolation between layer u
+  - Domain-specific language (DSL) u
+  - System vs applied code u
+  - Multilayer approach u
+  - Hexagonal architecture u
+  - Separation of concerns (SoC) u
+  - Metaprogramming u
+  - Inversion of control (IoC) u
+  - Dependency injection (DI) u
+  - Clean architecture u
+  - Domain-driven design (DDD) u
+  - Pub/sub u
+  - Message brocker u
+  - Agent u
+  - Service locator u
+  - Message Queue (MQ) u
+  - CQRS u
+  - Event sourcing u
+  - E-R data modeling u
+  - Entity-relationship diagram u
+  - IDEF1X u
+  - UML u
+  - Work breakdown structure u
+  - Budget estimation u
+  - Distributed systems u
+  - High-intensive computing u
+  - Load balancing u
+  - Gateways u
+  - On-premises u
+  - IaaS u
+  - PaaS u
+  - SaaS u
+  - FaaS clouds u
+  - Serverless u
+  - Vendor lock-in u
+  - Bus factor u
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
-  - Single source of truth (SSOT)
+  - A software requirements specification (SRS) k
+  - Solution visions k
+  - Solution capabilities k
+  - System design k
+  - Process modelling k
+  - Data modelling k
+  - Solution components k
+  - Risk assessment k
+  - Non Functional Requirements (NFR) k
+  - Clouds k
+  - BPMN k
+  - Low-code k
+  - No-code k
+  - Metric k
+  - Metric abuse k
+  - ACID k
+  - CAP theorem k
+  - Single source of truth (SSOT) k
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Understanding business needs h
+  - Enterprise strategy h
+  - Integration with subsystems h
+  - Enterprise vision h
+  - Enterprise capabilities h
+  - Project scope h
+  - Enterprise service bus h
+  - Service-oriented architecture h
+  - Microservices h
+  - Process choreography h
+  - Service orchestration h
+  - Data warehouse h
+  - Business Intelligence h
+  - OLAP h
+  - OLTP h
+  - Conways Law h
+  - Quality assurance h
+  - Engineering Hygiene h
 - Other
-  - UML, PlantUML: 🖐️ used
-  - Message Brokers: 🖐️ used
-  - Broker: 🖐️ used
-  - GRPC: 🎓 known
-  - Layered: 🖐️ used
-  - Client-Server: 🖐️ used
-  - Event-Driven: 🖐️ used
-  - Saga: 🖐️ used
-  - Event-Bus: 🖐️ used
-  - DDD: 🖐️ used
+  - UML, PlantUML: u
+  - Message Brokers: u
+  - Broker: u
+  - GRPC: u
+  - Layered: u
+  - Client-Server: u
+  - Event-Driven: u
+  - Microservices: u
+  - Saga: u
+  - Event-Bus: u
+  - DDD: u

@@ -1,115 +1,115 @@
 ## Scala and Backend
 
 - Fundamentals and Concepts
-  - Functional Programming Paradigms: 🎓 known
-  - Object-Oriented Programming in Scala: 🎓 known
-  - Immutability and Side Effects: 🎓 known
-  - Type Inference and Advanced Type Systems: 🎓 known
-  - Concurrency Models (Akka, Futures): 🎓 known
-  - Pattern Matching and Case Classes: 🎓 known
-  - Collections API and Lazy Evaluation: 🎓 known
-  - Scala's JVM Interoperability: 🎓 known
-  - SBT (Scala Build Tool) Usage: 🎓 known
-  - JVM Memory Management and Garbage Collection: 🎓 known
-  - Performance Considerations in Scala: 🎓 known
-  - Real-time Applications with Scala: 🎓 known
-  - Data validation: 🔬 researched
-  - Tagging: 🎓 known
-  - Tagless Final: 🎓 known
-  - Typeclass: 🎓 known
-  - Cross compilation: 🎓 known
-  - Circe: 🎓 known
-  - Play-json: 🎓 known
-  - json4s: 🎓 known
-  - Phobos: 🎓 known
+  - Functional Programming Paradigms: e
+  - Object-Oriented Programming in Scala: e
+  - Immutability and Side Effects: e
+  - Type Inference and Advanced Type Systems: e
+  - Concurrency Models (Akka, Futures): e
+  - Pattern Matching and Case Classes: e
+  - Collections API and Lazy Evaluation: e
+  - Scala's JVM Interoperability: e
+  - SBT (Scala Build Tool) Usage: e
+  - JVM Memory Management and Garbage Collection: e
+  - Performance Considerations in Scala: e
+  - Real-time Applications with Scala: e
+  - Data validation: r
+  - Tagging r
+  - Tagless Final r
+  - Typeclass e
+  - Cross compilation e
+  - Circe e
+  - Play-json e
+  - json4s e
+  - Phobos e
 - Modularity, Layers, and Dependencies
-  - SBT and Build Definitions: 🎓 known
-  - Package Management with Maven, Ivy and Coursier: 🎓 known
-  - Implicit Conversions and Parameters: 🎓 known
-  - Extension methods: 🎓 known
-  - Traits and Mixin Composition: 🎓 known
-  - Modular Programming in Scala: 🎓 known
-  - Dependency Injection Patterns: 🎓 known
-  - Library and Framework Ecosystem: 🎓 known
-  - Effective Use of Companion Objects: 🎓 known
-  - Version Management and Binary Compatibility: 🎓 known
+  - SBT and Build Definitions: e
+  - Package Management with Maven, Ivy and Coursier: e
+  - Implicit Conversions and Parameters: e
+  - Extension methods e
+  - Traits and Mixin Composition: e
+  - Modular Programming in Scala: e
+  - Dependency Injection Patterns: e
+  - Library and Framework Ecosystem: e
+  - Effective Use of Companion Objects: e
+  - Version Management and Binary Compatibility: e
 - Environment and Tooling
-  - REPL (Read-Eval-Print Loop) Usage: 🎓 known
-  - Scala IDEs and Editors: 🎓 known
-  - Scalafmt for Code Formatting: 🎓 known
-  - Scaladoc for Documentation: 🎓 known
-  - ScalaTest and Spec2 for Testing: 🎓 known
-  - Continuous Integration/Deployment Strategies: 🎓 known
-  - Scalafix for Code Refactoring: 🎓 known
-  - Monitoring and Profiling Scala Applications: 🎓 known
-  - Library release: 🎓 known
-  - MDoc and Docusaurus for static documentation: 🎓 known
-  - Algolia for static documentation search: 🎓 known
-  - sbt-buildinfo: 🎓 known
-  - sbt-git: 🎓 known
-  - sbt-release: 🎓 known
-  - sbt-pack: 🎓 known
-  - sbt-header: 🎓 known
-  - sbt-ci-release: 🎓 known
-  - sbt-tpolecat: 🎓 known
+  - REPL (Read-Eval-Print Loop) Usage: e
+  - Scala IDEs and Editors: e
+  - Scalafmt for Code Formatting: e
+  - Scaladoc for Documentation: e
+  - ScalaTest and Spec2 for Testing: e
+  - Continuous Integration/Deployment Strategies: e
+  - Scalafix for Code Refactoring: e
+  - Monitoring and Profiling Scala Applications: e
+  - Library release e
+  - MDoc and Docusaurus for static documentation e
+  - Algolia for static documentation search e
+  - sbt-buildinfo e
+  - sbt-git e
+  - sbt-release e
+  - sbt-pack e
+  - sbt-header e
+  - sbt-ci-release e
+  - sbt-tpolecat e
 - Scala 3
-  - Notable changes: 🎓 known
-  - Migration from Scala 2: 🎓 known
-  - Macroses and Quotes: 🎓 known
-  - Enums: 🎓 known
-  - Identation based syntax: 🎓 known
-  - Trait parameters: 🎓 known
-  - Derives: 🎓 known
-  - Opaque types: 🎓 known
-  - Intersection and union types: 🎓 known
-  - Dependent function types: 🎓 known
-  - Polymorphic function types: 🎓 known
-  - Type lambdas: 🎓 known
-  - Match types: 🎓 known
-  - Inline: 🎓 known
-  - Quote Reflection API: 🎓 known
+  - Notable changes e
+  - Migration from Scala 2 e
+  - Macroses and Quotes e
+  - Enums e
+  - Identation based syntax e
+  - Trait parameters e
+  - Derives e
+  - Opaque types e
+  - Intersection and enion types e
+  - Dependent function types e
+  - Polymorphic function types e
+  - Type lambdas e
+  - Match types e
+  - Inline e
+  - Quote Reflection API e
 - Scala APIs and Libraries
-  - Akka for Actor-based Concurrency: 🎓 known
-  - Akka Cluster: 🎓 known
-  - Akka Remote: 🎓 known
-  - Akka Persistence: 🎓 known
-  - Akka Stream: 🎓 known
-  - Akka Connectors: 🎓 known
-  - Pekko: 🎓 known
-  - Sttp: 🎓 known
-  - ZIO, Cats Effect for async programming: 🎓 known
-  - DIstage for DI: 🎓 known
-  - Play Framework for Web Applications: 🎓 known
-  - Cats for Functional Programming: 🎓 known
-  - Slick, Quill, Doobie for Database Access: 🎓 known
-  - Redis4s: 🎓 known
-  - Cassandar: 🎓 known
-  - FS2: 🎓 known
-  - HTTP4s and Akka HTTP for Networking: 🎓 known
-  - Scala.js for Scala to JavaScript Compilation: 👂 heard
-  - Circe and Play JSON for JSON Handling: 🎓 known
-  - Typelevel Libraries (Cats Effect, Monix): 🎓 known
-  - Tapir: 🎓 known
-  - Newtype: 🎓 known
+  - Akka for Actor-based Concurrency: e
+  - Akka Cluster e
+  - Akka Remote e
+  - Akka Persistence e
+  - Akka Stream e
+  - Akka Connectors e
+  - Pekko e
+  - Sttp e
+  - ZIO, Cats Effect for async programming: e
+  - DIstage for DI: e
+  - Play Framework for Web Applications: e
+  - Cats for Functional Programming: e
+  - Slick, Quill, Doobie for Database Access: e
+  - Redis4s e
+  - Cassandar e
+  - FS2 e
+  - HTTP4s and Akka HTTP for Networking: e
+  - Scala.js for Scala to JavaScript Compilation: h
+  - Circe and Play JSON for JSON Handling: e
+  - Typelevel Libraries (Cats Effect, Monix): e
+  - Tapir e
+  - Newtype e
 - Application Architecture
-  - Clean Architecture and DDD in Scala: 🎓 known
-  - Microservices with Scala and Akka: 🎓 known
-  - Event Sourcing and CQRS Patterns: 🎓 known
-  - Functional and Reactive Programming Patterns: 🎓 known
-  - Scalability and High Availability Strategies: 🎓 known
-  - Resilience and Fault Tolerance (Circuit Breakers, Backoff Strategies): 🎓 known
-  - API Design and Versioning: 🎓 known
-  - Message Queues and Event Streaming (Kafka, RabbitMQ): 🎓 known
+  - Clean Architecture and DDD in Scala: e
+  - Microservices with Scala and Akka: e
+  - Event Sourcing and CQRS Patterns: e
+  - Functional and Reactive Programming Patterns: e
+  - Scalability and High Availability Strategies: e
+  - Resilience and Fault Tolerance (Circuit Breakers, Backoff Strategies): e
+  - API Design and Versioning: e
+  - Message Queues and Event Streaming (Kafka, RabbitMQ): e
 - Network and Security
-  - RESTful API Development: 🎓 known
-  - WebSockets and Real-Time Communication: 🎓 known
-  - gRPC and Protocol Buffers: 🎓 known
-  - Secure Coding Practices in Scala: 🎓 known
-  - OAuth and JWT for Authentication: 🎓 known
-  - TLS/SSL Implementation: 🎓 known
-  - Handling Cross-Site Scripting (XSS) and SQL Injection: 🎓 known
+  - RESTful API Development: e
+  - WebSockets and Real-Time Communication: e
+  - gRPC and Protocol Buffers: e
+  - Secure Coding Practices in Scala: e
+  - OAuth and JWT for Authentication: e
+  - TLS/SSL Implementation: e
+  - Handling Cross-Site Scripting (XSS) and SQL Injection: e
 - Data Access and Management
-  - Scala and NoSQL Databases (Cassandra, Couchbasee, MongoDB): 🎓 known
-  - RDBMS Access (Postgres, MySQL): 🎓 known
-  - ORM Tools (Slick, Quill): 🎓 known
-  - Stream Processing (Akka Streams, ZIO Streams): 🎓 known
+  - Scala and NoSQL Databases (Cassandra, Couchbasee, MongoDB): e
+  - RDBMS Access (Postgres, MySQL): e
+  - ORM Tools (Slick, Quill): e
+  - Stream Processing (Akka Streams, ZIO Streams): e
