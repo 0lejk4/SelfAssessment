@@ -1,91 +1,91 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
-  - Imperative programming: 🎓 known
-  - Structured programming: 🎓 known
-  - Non-structured programming: 🎓 known
-  - Functional programming: 🎓 known
-  - Prototype-based programming: 🎓 known
-  - Object-oriented programming: 🎓 known
-  - Object-based programming: 🎓 known
-  - Generic programming: 🎓 known
-  - Concurrent computing: 🎓 known
-  - Asynchronous programming: 🎓 known
-  - Parallel programming: 🎓 known
-  - Reactive programming: 🎓 known
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
+  - Generic programming: 🖐️ used
+  - Concurrent computing: 🖐️ used
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
+  - Reactive programming: 🖐️ used
   - Functional-reactive (FRP)
   - Automata-based programming
-  - Domain-specific languages 🎓 known
-  - Multi-paradigm programming 🎓 known
-  - Metaprogramming 🎓 known
-  - Actor model 🎓 known
-  - Lambda calculus 🎓 known
-  - Black box 🎓 known
-  - Information hiding 🎓 known
-  - Aspect-oriented programming 🎓 known
-  - Anemic domain model 🎓 known
-  - Class composition 🎓 known
+  - Domain-specific languages: 🖐️ used
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 🖐️ used
+  - Actor model: 🖐️ used
+  - Lambda calculus: 🖐️ used
+  - Black box: 🖐️ used
+  - Information hiding: 🖐️ used
+  - Aspect-oriented programming: 🖐️ used
+  - Anemic domain model: 🖐️ used
+  - Class composition: 🖐️ used
 - OOP basics
-  - Constructor 🎓 known
-  - Operator `new` 🎓 known
-  - Static method 🎓 known
-  - Method 🎓 known
-  - Async method 🎓 known
-  - Getters, Setters 🎓 known
-  - Public fields 🎓 known
-  - Private fields 🎓 known
-  - Field declarations 🎓 known
-  - Inheritance 🎓 known
-  - Parent class 🎓 known
-  - Polymorphism 🎓 known
-  - Abstract class 🎓 known
-  - Interface 🎓 known
-  - Encapsulation 🎓 known
-  - Hidden class 🎓 known
-  - Object form 🎓 known
-  - Instance 🎓 known
-  - Introspection 🎓 known
-  - Reflection 🎓 known
-  - The diamond problem 🎓 known
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
+  - The diamond problem: 🖐️ used
 - GRASP
-  - Information expert 🎓 known
-  - Creator 🎓 known
-  - Controller 🎓 known
-  - Indirection 🎓 known
-  - Low coupling 🎓 known
-  - High cohesion 🎓 known
-  - Protected variations 🎓 known
-  - Pure fabrication 🎓 known
+  - Information expert: 🖐️ used
+  - Creator: 🖐️ used
+  - Controller: 🖐️ used
+  - Indirection: 🖐️ used
+  - Low coupling: 🖐️ used
+  - High cohesion: 🖐️ used
+  - Protected variations: 🖐️ used
+  - Pure fabrication: 🖐️ used
 - SOLID
-  - Single-responsibility principle (SRP) 🎓 known
-  - Open–closed principle (OCP) 🎓 known
-  - Liskov substitution principle (LSP) 🎓 known
-  - Interface segregation principle (ISP) 🎓 known
-  - Dependency inversion principle (DIP) 🎓 known
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton 🎓 known
-  - Factory Method 🎓 known
-  - Abstract Factory 🎓 known
-  - Adapter 🎓 known
-  - Observer 🎓 known
-  - Strategy 🎓 known
-  - Facade 🎓 known
-  - Proxy 🎓 known
-  - Chain of Responsibility 🎓 known
-  - Command 🎓 known
-  - Iterator 🎓 known
-  - State 🎓 known
-  - Bridge 🎓 known
-  - Builder 🎓 known
-  - Prototype 🎓 known
-  - Composite 🎓 known
-  - Decorator 🎓 known
-  - Flyweight 🎓 known
-  - Mediator 🎓 known
-  - Memento 🎓 known
-  - Template Method 🎓 known
-  - Visitor 🎓 known
-  - Reactor 🎓 known
-  - Active object 🎓 known
-  - Delegation 🎓 known
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
+  - Adapter: 🖐️ used
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🖐️ used
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🖐️ used
+  - Iterator: 🖐️ used
+  - State: 🖐️ used
+  - Bridge: 🖐️ used
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
+  - Composite: 🖐️ used
+  - Decorator: 🖐️ used
+  - Flyweight: 🖐️ used
+  - Mediator: 🖐️ used
+  - Memento: 🖐️ used
+  - Template Method: 🖐️ used
+  - Visitor: 🖐️ used
+  - Reactor: 🖐️ used
+  - Active object: 🖐️ used
+  - Delegation: 🖐️ used

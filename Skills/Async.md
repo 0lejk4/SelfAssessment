@@ -1,51 +1,51 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🎓 known
+  - Event loop: 🖐️ used
   - `try..catch`: 🖐️ used
-  - Non-blocking: 🎓 known
-  - Async I/O: 🎓 known
-  - Thread pool: 🎓 known
+  - Non-blocking: 🖐️ used
+  - Async I/O: 🖐️ used
+  - Thread pool: 🖐️ used
   - Pattern Reactor: 👂 heard
-  - CAS operations: 🎓 known
+  - CAS operations: 🖐️ used
   - epoll
   - kqueue
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions: 🎓 known
-  - Dead locks: 🎓 known
-  - Live locks: 🎓 known
-  - Concurrent programming: 🎓 known
-  - Parallel programming: 🎓 known
+  - Race conditions: 🖐️ used
+  - Dead locks: 🖐️ used
+  - Live locks: 🖐️ used
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Actor Model: 🖐️ used
-  - Thread: 🎓 known
-  - Process: 🎓 known
+  - Thread: 🖐️ used
+  - Process: 🖐️ used
 - Async contracts
-  - Callbacks: 🎓 known
-  - Callback-last-error-first: 🎓 known
-  - Thenable: 🎓 known
-  - Promise: 🎓 known
-  - Async/await: 🎓 known
-  - Future: 🎓 known
-  - Deferred: 🎓 known
+  - Callbacks: 🖐️ used
+  - Callback-last-error-first: 🖐️ used
+  - Thenable: 🖐️ used
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
+  - Future: 🖐️ used
+  - Deferred: 🖐️ used
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event: 🎓 known
-  - Coroutine: 🎓 known
-  - Goroutine: 🎓 known
-  - Signal: 🎓 known
-  - Stream: 🎓 known
+  - Event: 🖐️ used
+  - Coroutine: 🖐️ used
+  - Goroutine: 🖐️ used
+  - Signal: 🖐️ used
+  - Stream: 🖐️ used
   - Chain of responsibility: 👂 heard
-  - Middleware: 🎓 known
-  - Locks: 🎓 known
+  - Middleware: 🖐️ used
+  - Locks: 🖐️ used
 - Async adapters and utils
-  - callbackify: 🎓 known
-  - promisify: 🎓 known
+  - callbackify: 🖐️ used
+  - promisify: 🖐️ used
   - asyncify
-  - Callbacks compose: 🎓 known
-  - Async compose: 🎓 known
+  - Callbacks compose: 🖐️ used
+  - Async compose: 🖐️ used
 - Async abstractions interfaces
   - EventEmitter: 👂 heard
   - Observable/Observer: 🖐️ used
@@ -68,14 +68,12 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell: 🎓 known
-  - Promise hell: 🎓 known
+  - Callback hell: 🖐️ used
+  - Promise hell: 🖐️ used
   - ref() and unref()
-  - Error handling in async code: 🎓 known
+  - Error handling in async code: 🖐️ used
   - Better stack traces with return await
   - JSON streaming serialization: 🖐️ used
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

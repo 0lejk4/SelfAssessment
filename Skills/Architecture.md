@@ -1,112 +1,111 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
-  - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
-  - Law of Demeter (LoD)
+  - Modularity: 🖐️ used
+  - Componentsu
+  - Directories: 🖐️ used
+  - GRASP: 🖐️ used
+  - SOLID: 🖐️ used
+  - GoF patterns: 🖐️ used
+  - CQS: 🖐️ used
+  - Leaking abstractions: 🖐️ used
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
+  - Platform-agnostic: 🖐️ used
+  - Transport-agnostic: 🖐️ used
+  - Framework-agnostic: 🖐️ used
+  - Code coverage: 🖐️ used
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
+  - Cyclomatic complexity: 🖐️ used
+  - Reliability: 🖐️ used
+  - Quality: 🖐️ used
+  - Availability: 🖐️ used
+  - Flexibility: 🖐️ used
+  - Law of Demeter (LoD): 👂 heard
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
-  - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
-  - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
-  - IDEF1X
-  - UML
-  - Work breakdown structure
-  - Budget estimation
-  - Distributed systems
-  - High-intensive computing
-  - Load balancing
-  - Gateways
-  - On-premises
-  - IaaS
-  - PaaS
-  - SaaS
-  - FaaS clouds
-  - Serverless
-  - Vendor lock-in
-  - Bus factor
+  - Isolation between layer: 🖐️ used
+  - Domain-specific language (DSL): 🖐️ used
+  - System vs applied code: 🖐️ used
+  - Multilayer approach: 🖐️ used
+  - Hexagonal architecture: 🖐️ used
+  - Separation of concerns (SoC): 🖐️ used
+  - Metaprogramming: 🖐️ used
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 🖐️ used
+  - Pub/sub: 🖐️ used
+  - Message brocker: 🖐️ used
+  - Agent: 🖐️ used
+  - Service locator: 🖐️ used
+  - Message Queue (MQ): 🖐️ used
+  - CQRS: 🖐️ used
+  - Event sourcing: 🖐️ used
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
+  - IDEF1X: 🖐️ used
+  - UML: 🖐️ used
+  - Work breakdown structure: 🖐️ used
+  - Budget estimation: 🖐️ used
+  - Distributed systems: 🖐️ used
+  - High-intensive computing: 🖐️ used
+  - Load balancing: 🖐️ used
+  - Gateways: 🖐️ used
+  - On-premises: 🖐️ used
+  - IaaS: 🖐️ used
+  - PaaS: 🖐️ used
+  - SaaS: 🖐️ used
+  - FaaS clouds: 🖐️ used
+  - Serverless: 🖐️ used
+  - Vendor lock-in: 🖐️ used
+  - Bus factor: 🖐️ used
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
-  - Metric
-  - Metric abuse
-  - ACID
-  - CAP theorem
-  - Single source of truth (SSOT)
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 🎓 known
+  - Solution capabilities: 🎓 known
+  - System design: 🎓 known
+  - Process modelling: 🎓 known
+  - Data modelling: 🎓 known
+  - Solution components: 🎓 known
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR): 🎓 known
+  - Clouds: 🎓 known
+  - BPMN: 🎓 known
+  - Low-code: 🎓 known
+  - No-code: 🎓 known
+  - Metric: 🎓 known
+  - Metric abuse: 🎓 known
+  - ACID: 🎓 known
+  - CAP theorem: 🎓 known
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
-  - Service orchestration
-  - Data warehouse
-  - Business Intelligence
-  - OLAP
-  - OLTP
-  - Conways Law
-  - Quality assurance
-  - Engineering Hygiene
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
+  - Integration with subsystems: 👂 heard
+  - Enterprise vision: 👂 heard
+  - Enterprise capabilities: 👂 heard
+  - Project scope: 👂 heard
+  - Enterprise service bus: 👂 heard
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 👂 heard
+  - Process choreography: 👂 heard
+  - Service orchestration: 👂 heard
+  - Data warehouse: 👂 heard
+  - Business Intelligence: 👂 heard
+  - OLAP: 👂 heard
+  - OLTP: 👂 heard
+  - Conways Law: 👂 heard
+  - Quality assurance: 👂 heard
+  - Engineering Hygiene: 👂 heard
 - Other
   - UML, PlantUML: 🖐️ used
   - Message Brokers: 🖐️ used
   - Broker: 🖐️ used
-  - GRPC: 🎓 known
+  - GRPC: 🖐️ used
   - Layered: 🖐️ used
   - Client-Server: 🖐️ used
   - Event-Driven: 🖐️ used
-  - Microservices: 🖐️ used
   - Saga: 🖐️ used
   - Event-Bus: 🖐️ used
   - DDD: 🖐️ used
